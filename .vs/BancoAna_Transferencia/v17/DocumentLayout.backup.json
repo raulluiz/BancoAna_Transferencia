@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD9D88A-FFD1-4225-AC28-BC0D7747FCB6}|BancoAna_Transferencia\\BancoAna_Transferencia.csproj|c:\\users\\raul.araujo\\source\\repos\\raulluiz\\bancoana_transferencia\\bancoana_transferencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD9D88A-FFD1-4225-AC28-BC0D7747FCB6}|BancoAna_Transferencia\\BancoAna_Transferencia.csproj|solutionrelative:bancoana_transferencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD9D88A-FFD1-4225-AC28-BC0D7747FCB6}|BancoAna_Transferencia\\BancoAna_Transferencia.csproj|c:\\users\\raul.araujo\\source\\repos\\raulluiz\\bancoana_transferencia\\bancoana_transferencia\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBD9D88A-FFD1-4225-AC28-BC0D7747FCB6}|BancoAna_Transferencia\\BancoAna_Transferencia.csproj|solutionrelative:bancoana_transferencia\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2851EE96-E919-41D8-9F17-E813F4DD1027}|Infrastructure\\Infrastructure.csproj|c:\\users\\raul.araujo\\source\\repos\\raulluiz\\bancoana_transferencia\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2851EE96-E919-41D8-9F17-E813F4DD1027}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AE80C4-5288-4EB6-8831-072A0A474B9A}|Domain\\Domain.csproj|c:\\users\\raul.araujo\\source\\repos\\raulluiz\\bancoana_transferencia\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AE80C4-5288-4EB6-8831-072A0A474B9A}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C51B23-6AD9-40F9-8819-A7115404F8BE}|Application\\Application.csproj|c:\\users\\raul.araujo\\source\\repos\\raulluiz\\bancoana_transferencia\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C51B23-6AD9-40F9-8819-A7115404F8BE}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\BancoAna_Transferencia\\Program.cs",
+              "RelativeDocumentMoniker": "BancoAna_Transferencia\\Program.cs",
+              "ToolTip": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\BancoAna_Transferencia\\Program.cs",
+              "RelativeToolTip": "BancoAna_Transferencia\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:29:41.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\BancoAna_Transferencia\\Dockerfile",
+              "RelativeDocumentMoniker": "BancoAna_Transferencia\\Dockerfile",
+              "ToolTip": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\BancoAna_Transferencia\\Dockerfile",
+              "RelativeToolTip": "BancoAna_Transferencia\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-11T17:26:46.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:21:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:21:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\raul.araujo\\source\\repos\\raulluiz\\BancoAna_Transferencia\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:21:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
